@@ -8,8 +8,8 @@ Corps was created using Autocad2019.
 
 
 Our developers:
-  Oleinik Timofei
-  Saenko Vladislav
-  Voicehovsky Vyacheslav
-  Kurgannikov Andrey
-  Parshikov Evgeny
+  Oleinik Timofei;
+  Saenko Vladislav;
+  Voicehovsky Vyacheslav;
+  Kurgannikov Andrey;
+  Parshikov Evgeny.
